@@ -1,0 +1,6 @@
+'accuracy:  86.07%; precision:   0.00%; recall:   0.00%; FB05:   0.00'
+<class 'list'>: ['processed 19937 tokens with 910 phrases; found: 0 phrases; correct: 0.',
+'accuracy:  86.07%; precision:   0.00%; recall:   0.00%; FB05:   0.00',
+'LOC: precision:   0.00%; recall:   0.00%; FB05:   0.00  0',
+'ORG: precision:   0.00%; recall:   0.00%; FB05:   0.00  0',
+'PER: precision:   0.00%; recall:   0.00%; FB05:   0.00  0']
